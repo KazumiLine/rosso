@@ -1,4 +1,4 @@
-module github.com/elt/rosso
+module github.com/KazumiLine/rosso
 
 go 1.19
 
